@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrens16&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrens16&theme=dark&hide_border=false&layout=compact)
 <!--
 **Lawrens16/Lawrens16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
